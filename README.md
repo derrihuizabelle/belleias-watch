@@ -32,3 +32,7 @@ Findings that shaped the plan:
 ## Data credits
 
 The occurrence data is published under CC BY 4.0 by Happywhale, ICMBio (SISBio), iNaturalist, PGS, TotalEnergies EP Brasil and others, through GBIF. Raw data is not stored in this repository.
+
+## License
+
+Code is released under the [MIT License](LICENSE). The data belongs to its publishers (see Data credits).
